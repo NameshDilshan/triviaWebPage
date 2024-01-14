@@ -5,6 +5,7 @@ Simple random quiz website built. For every refresh page, you can get different 
 It's a project using only HTML , CSS , & JS.
 No Bootstrap or other stylings.
 
+https://nameshdilshan.github.io/triviaWebPage/
 
 For questions i used an api from  opentdb.com  
 
